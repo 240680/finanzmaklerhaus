@@ -1,2 +1,3 @@
 # finanzmaklerhaus
-Betrachtung der aktuellen Wirtschafts- und Finanzmarktsituation
+energiemakler für Privat- und Firmenkunden 
+zugang zu börsennotierten Energieangeboten
